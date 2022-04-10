@@ -1,0 +1,36 @@
+
+body{
+    background-color: rgba(0, 0, 0, 0.219);
+}
+
+
+.input-one{
+    background-color: rgb(208, 208, 233);
+    height: 50px;
+    border-width: 4px;
+    /* color:black; */
+}
+figcaption{
+    font-weight: 600;
+    border: 3px solid green;
+    margin-right: 8px;
+    width:200px;
+    color:rgb(133, 11, 31)
+   
+}
+input{
+    color:blue;
+}
+.input-one:hover{
+    /* box-sizing: border-box; */
+    background-color: brown;
+   
+}
+input:hover{
+    color:blanchedalmond;
+    font-weight: 400;
+}
+.main-div{
+    display: flex;
+    /* display:inline-flex; */
+}
